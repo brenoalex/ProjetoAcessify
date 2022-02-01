@@ -1,7 +1,7 @@
 # ProjetoAcessify
 Projeto feito no último período da faculdade de Análise e Desenvolvimento de Sistemas - UNINASSAU Boa Viagem
 
-Inclui documentação de requisitos, implementação e arquitetura de software. Além de codigicação em Java.
+Inclui documentação de requisitos, implementação e arquitetura de software. Além de codificação em Java.
 
 Visão Geral do Produto:
 Acessify se trata de um aplicativo de transporte com o foco em acessibilidade. Disponível para sistemas Android, devendo ter configurações leves com o objetivo de abranger maior parte do público. Deve aceitar pagamento online de débito e crédito, assim como em espécie e também deve abranger a possibilidade de pagamento pré-pago.
